@@ -1,6 +1,6 @@
 # go-learn
 examples and exercies.
-
+.
 ├── LICENSE
 ├── README.md
 ├── cmd
