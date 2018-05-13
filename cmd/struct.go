@@ -65,5 +65,5 @@ func main() {
 		pi:      3.1254,
 	}
 
-	fmt.Println(e1 == anonymous_struct)
+	fmt.Println(e1 == anonymousStruct)
 }
