@@ -16,7 +16,7 @@ func (u *User) Notify() {
 	fmt.Println("User notified: ", u.Name, u.Email)
 }
 
-// Notifier Henavior ...
+// Notifier Interface ...
 type Notifier interface {
 	Notify()
 }
